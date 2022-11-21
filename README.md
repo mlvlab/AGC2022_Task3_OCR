@@ -3,6 +3,8 @@
 1. Download Pretrained model from CRAFT and WIW github.
 2. python task3.py --craft_weight ./craft_mlt_25k.pth --wiw_weight ./recognition_model.pth
 
+We use the pretrained model for Detection and finetuned model for Recognition.
+
 
 ### [STAGE 1] Detection: CRAFT 
 - Official Code: https://github.com/clovaai/CRAFT-pytorch
