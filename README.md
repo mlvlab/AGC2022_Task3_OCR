@@ -1,4 +1,4 @@
-## Drone_Task3_OCR
+# AGC2022 Task3 OCR
 
 1. Download Pretrained model from CRAFT and WIW github.
 2. python task3.py --craft_weight ./craft_mlt_25k.pth --wiw_weight ./recognition_model.pth
